@@ -1,9 +1,6 @@
 # form-hooks
-# My Porfolio
+ ![image](https://user-images.githubusercontent.com/79206432/170084301-44ab67e4-c458-4d93-8941-929f32fdc951.png)
 
-<p align="center">
- <img width="900" src="https://github.com/thiagodanobrega/myPortfolio/blob/master/project-preview.png?raw=true" alt="exemplo imagem" >
-</p>
 
 ## 💻 Projeto
 
@@ -18,14 +15,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Nesse projeto, fui capaz de:
 
-- Trabalhar com estado e componentes
-
-
-## 📝 Ajustes e melhorias
-
-O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
-
-- [ ] Realizar testes unitários;
+- Trabalhar com Hooks
 
 ## ⬇️ Instalando dependências
 
